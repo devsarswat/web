@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/sarswatdev/try.git/static/css/main.13818909.css",
+    "main.js": "/sarswatdev/try.git/static/js/main.274b9e32.js",
+    "static/media/WeatherIcons.gif": "/sarswatdev/try.git/static/media/WeatherIcons.c90d089e17d438e81f7e.gif",
+    "static/media/city.jpg": "/sarswatdev/try.git/static/media/city.a33b197ec911448b1200.jpg",
+    "static/media/background.jpg": "/sarswatdev/try.git/static/media/background.a56ff28deb8cac40d7a8.jpg",
+    "index.html": "/sarswatdev/try.git/index.html",
+    "main.13818909.css.map": "/sarswatdev/try.git/static/css/main.13818909.css.map",
+    "main.274b9e32.js.map": "/sarswatdev/try.git/static/js/main.274b9e32.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13818909.css",
+    "static/js/main.274b9e32.js"
+  ]
+}
